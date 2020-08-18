@@ -30,7 +30,9 @@
             // Put settings here that you want to apply to all profiles.
             "colorScheme": "Campbell",
             // "fontFace": "Fira Code",
-            "fontSize": 10
+            "fontSize": 10,
+            "useAcrylic": true,
+            "acrylicOpacity": 0.5
         },
         "list":
         [
