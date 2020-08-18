@@ -29,7 +29,7 @@
         {
             // Put settings here that you want to apply to all profiles.
             "colorScheme": "Campbell",
-            "fontFace": "Fira Code",
+            // "fontFace": "Fira Code",
             "fontSize": 10
         },
         "list":
