@@ -28,7 +28,7 @@
         "defaults":
         {
             // Put settings here that you want to apply to all profiles.
-            "colorScheme": "Campbell",
+            "colorScheme": "Tango Dark",
             // "fontFace": "Fira Code",
             "fontSize": 10,
             "useAcrylic": true,
